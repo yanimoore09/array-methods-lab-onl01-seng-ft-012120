@@ -34,7 +34,7 @@ famous_people .pop ("kim jong")
 end
 famous_people .shift ("yani moore") 
 end
-famous_people [1] or [3]
+famous_people [3]
 end
 famous_people 
 array.include ("yani moore")
